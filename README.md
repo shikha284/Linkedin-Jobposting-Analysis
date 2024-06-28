@@ -5,7 +5,7 @@
   - restart and run all code
   - commit your changes
 + Steps to generate staging_data
-  - Copy all the data from https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv into raw_data. Refer the README in raw_data for more information.
+  - Copy all the data from https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv
   - Run the eda.ipynb script
    * Dependencies - matplotlib, pandas, numpy, csv
   - This should generate the staging files in staging_data
